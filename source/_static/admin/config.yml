@@ -7,7 +7,7 @@ public_folder: "source"
 collections: # A list of collections the CMS should be able to edit
 - name: "posts" # Used in routes, ie.: /admin/collections/:slug/edit
   label: "Post" # Used in the UI, ie.: "New Post"
-  folder: "source/_posts" # The path to the folder where the documents are stored
+  folder: "source/_posts/posts" # The path to the folder where the documents are stored
   sort: "date:desc"
   create: true # Allow users to create new documents in this collection
   fields: # The fields each document in this collection have
@@ -19,16 +19,16 @@ collections: # A list of collections the CMS should be able to edit
     - {label: "Categories", name: "categories", widget: "string"}
     - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
     - {label: "Type", name: "type", widget: "hidden", default: "post"}
-- name: "podcasts" # A [podcast]
-  label: "Podcast"
-  folder: "source/_posts" # The path to the folder where the documents are stored
+- name: "podcasts" # Used in routes, ie.: /admin/collections/:slug/edit
+  label: "Podcasts" # Used in the UI, ie.: "New Post"
+  folder: "source/_posts/podcasts" # The path to the folder where the documents are stored
   sort: "date:desc"
   create: true # Allow users to create new documents in this collection
   fields: # The fields each document in this collection have
-    - {label: "Podcast Title", name: "title", widget: "string", tagname: "h1"}
-    - {label: "Podcast Summary", name: "shortdesc", widget: "string"}
+    - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+    - {label: "Body", name: "body", widget: "markdown"}
   meta: # Meta data fields. Just like fields, but without any preview element
     - {label: "Publish Date", name: "date", widget: "datetime"}
     - {label: "Categories", name: "categories", widget: "string"}
     - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-    - {label: "Type", name: "type", widget: "hidden", default: "podcast"}
+    - {label: "Type", name: "type", widget: "hidden", default: "post"}
