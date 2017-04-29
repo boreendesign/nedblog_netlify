@@ -1,0 +1,5 @@
+users:
+- id: 28caa2d0-58af-4e89-b22b-23bfad9a0adc
+  name: steve
+  email: steveswebdesk@gmail.com
+  hash: $2a$10$T/nqyIVkKVxAIrgGb89yCOIU3m/DPXOkyeaovtYPvx8lgqaIznwcC
