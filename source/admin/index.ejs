@@ -83,21 +83,21 @@ collections: # A list of collections the CMS should be able to edit
     </div>
   </script>
 
-  <script type="text/x-handlebars" data-template-name='cms/preview/characters'>
+  <script type="text/x-handlebars" data-template-name='cms/preview/podcasts'>
     <div id="main-wrapper">
         <div class="container">
-            {{#cms-preview field="list" as |character| }}
-              <section class="box">
-                  <span class="image featured">{{cms-preview field="image" from=character}}</span>
-                  <header>
-                      <h3>{{character.name}}</h3>
-                  </header>
-                  <p>{{character.description}}</p>
-              </section>
-            {{/cms-preview}}
+            <!--Content-->
+            <article class="box podcast">
+                <header>
+                    <h2>{{ entry.title }}</h2>
+                    <p>{{ entry.shortdesc}}</p>
+                </header>
+                {{cms-preview field='body'}}
+            </article>
         </div>
     </div>
   </script>
+
   {% endraw %}
   <script src="//cms.netlify.com/assets/vendor.js"></script>
   <script src="//cms.netlify.com/assets/cms.js"></script>
