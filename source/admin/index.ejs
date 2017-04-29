@@ -64,20 +64,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Categories", name: "categories", widget: "string"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-  - name: "data"
-    label: "Data"
-    files:
-      - name: "characters"
-        label: "Characters"
-        file: "source/_data/characters.yml"
-        fields:
-          - label: "Characters"
-            name: "list"
-            widget: "list"
-            fields:
-              - {label: "Name", name: "name", widget: "string"}
-              - {label: "Image", name: "image", widget: "image", media_folder: "assets/images"}
-              - {label: "Description", name: "description", widget: "string"}
   </script>
   <script type="text/x-handlebars" data-template-name='cms/preview/posts'>
     <div id="main-wrapper">
