@@ -1,5 +1,10 @@
 ---
 title: Neuroscience behind the Iterative Learning Cycle
+banner: /assets/images/lightbulb_brain.png
+cmsUserSlug: neuroscience-behind-the-iterative-learning-cycle
+date: 2017-04-29T00:00:00-07:00
+categories: null
+layout: post
 ---
 
 In this blog we describe a learning model that is used successfully in many diverse environments and across age groups. We focus on K-12 education(1) but it works just as well with adult learning and industry teaching and learning.(2) Learning models are not new. They have been used for centuries (e.g., Plato, Aristotle, Rousseau, Pestalozzi, Froebel, Locke, Jefferson, Mann, Dewey, Piaget, Pavlov, Skinner, Simon, Montessori, Vygotsky) to enhance teachers’ roles in the classroom.(3)
