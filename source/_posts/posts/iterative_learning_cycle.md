@@ -1,9 +1,9 @@
 ---
 title: Neuroscience behind the Iterative Learning Cycle
 banner: /assets/images/lightbulb_brain.png
-cmsUserSlug: neuroscience-behind-the-iterative-learning-cycle
-date: 2017-04-29T00:00:00-07:00
 categories: null
+cmsUserSlug: neuroscience-behind-the-iterative-learning-cycle
+date: 2017-04-29T07:00:00.000Z
 layout: post
 ---
 
@@ -15,7 +15,7 @@ A large body of empirical research has emerged that help learning scientists def
 
 Figure 1: The Challenge Cycle
 
-![alt text](/assets/images/cycle.png "NED Learning Cycle")
+![alt text](/assets/images/cycle.png)
 
 U.S. Later.(4) Concepts from this model were incorporated into the 1999 National Academies Press publication: How People Learn,(5) and it is still used around the world today.  In this blog we connect neural substrates to the articulation of the model in the learning environment and outline why adherence to certain prescribed application works. We describe each component of the model and offer empirical evidence for why it is so successful in classrooms for teachers and for students who love to engage with it.
 
@@ -25,7 +25,7 @@ An iterative learning cycle turns this model on its head. Students are allowed, 
 
 Future blogs will introduce each segment of the cyclical encounter and add the neuroscience of pedagogy that enables the learning engagement and satisfaction from the learner’s standpoint.
 
-![alt text](/assets/images/segments.png "NED Learning Segments")
+![alt text](/assets/images/segments.png)
 
 > REFERENCES
 > 1.	T. Martin et al., paper presented at the American Educational Research Association (AERA), San Francisco, April 17, 2006 2006.
