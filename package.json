@@ -2,6 +2,13 @@
   "name": "hexo-site",
   "version": "0.0.0",
   "private": true,
+  "main": "themes/tranquilpeak/Gruntfile.js",
+  "scripts": {
+    "start": "grunt default",
+    "prod": "grunt buildProd",
+    "lint": "./node_modules/eslint/bin/eslint.js .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "hexo": {
     "version": "3.2.2"
   },
