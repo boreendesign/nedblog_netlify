@@ -4,7 +4,7 @@
   "private": true,
   "main": "themes/tranquilpeak/Gruntfile.js",
   "scripts": {
-    "start": "grunt default",
+    "start":"grunt default",
     "prod": "grunt buildProd",
     "lint": "./node_modules/eslint/bin/eslint.js .",
     "test": "echo \"Error: no test specified\" && exit 1"
