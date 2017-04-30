@@ -4,6 +4,6 @@ cmsUserSlug: ''
 date: 2017-04-29T07:00:00.000Z
 layout: post
 shortdesc: Here is a Sample Podcast
-title: New Podcast
+title: NEDCasts - New Podcast Series Coming Soon
 ---
-Just a test podcast for what is coming up soon.
+Stay tuned in, we will be launching our Podcast series very soon.
