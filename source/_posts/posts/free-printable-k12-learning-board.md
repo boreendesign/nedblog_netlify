@@ -64,3 +64,4 @@ One board accommodates up to 4 to 7 students
 
 ##### By following these instructions we accept no responsibility for any damages caused.
 
+
