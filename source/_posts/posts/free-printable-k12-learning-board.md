@@ -26,10 +26,11 @@ don’t have the KIT please sign up here to receive your free NED Kit)
 * Challenger & Resources (Please see the model
 documentation on how to build a Challenge and Resources)
 
- 
+## Step by Step Instructions
 
 1. First print out the top and bottom of the board
-on two sheets of 8.5” X 11” printer paper.
+on two sheets of 8.5” X 11” printer paper. 
+![undefined](/source/DIY_step1.png)
   
 2. Then cut a 17” X 11” piece of poster board
 
@@ -44,7 +45,9 @@ of the poster board
 
 7. To get learning, please read the accompanying instructions that you can find in the downloadable NED Kit
 
- 
 
+ 
+*
 By following these instructions we accept no responsibility
 for any damages caused.
+*
