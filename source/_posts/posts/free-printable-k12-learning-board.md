@@ -2,7 +2,7 @@
 title: FREE PRINTABLE K12 LEARNING BOARD
 banner: /source/DIY_step1.png
 ---
-Neuroscience meets EDucation through NED Learning with this
+**N**euroscience meets **ED**ucation through **NED** Learning with this
 free ‘print it yourself’ challenge board that will excite and engage your
 classroom. With 40 years of evidence based research behind it, the Challenge
 Board uses a neuro model designed to motivate students with critical thinking
@@ -53,15 +53,14 @@ One board accommodates up to 4 to 7 students
 ```
 <img src = 'https://www.dropbox.com/s/bsazg557vd94osc/DIY_step6.png?dl=1' style = 'max-width:700px'/>
 ```
-7. To get learning, please read the accompanying instructions that you can find in the downloadable NED Kit
+7. To get learning, please read the accompanying instructions that you can find in the downloadable NED Kit.
+
+
 ```
-<img src = 'https://www.dropbox.com/s/x58xnnrhntvt0jm/DIY_step1.png?dl=1' style = 'max-width:700px'/>
+<br /><br /><br /><br />
 ```
 
-* 
 
-By following these instructions we accept no responsibility
-for any damages caused.
 
-* 
+##### By following these instructions we accept no responsibility for any damages caused.
 
