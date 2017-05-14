@@ -1,5 +1,5 @@
 ---
-title: FREE PRINTABLE K12 LEARNING BOARD
+title: FREE PRINTABLE K12 LEARNING KIT
 banner: /source/DIY_step1.png
 ---
 **N**euroscience meets **ED**ucation through **NED** Learning with this
@@ -63,6 +63,7 @@ One board accommodates up to 4 to 7 students
 
 
 ##### By following these instructions we accept no responsibility for any damages caused.
+
 
 
 
