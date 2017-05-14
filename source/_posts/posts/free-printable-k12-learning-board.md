@@ -5,10 +5,10 @@ banner: /source/DIY_step1.png
 **N**euroscience meets **ED**ucation through **NED** Learning with this
 free ‘print it yourself’ challenge board that will excite and engage your
 classroom. With 40 years of evidence based research behind it, the Challenge
-Board uses a neuro model designed to motivate students with critical thinking
+Board uses a neural model designed to motivate students with critical thinking
 and collaboration. Its gained so much popularity with teachers we have decided
-to launch a Kickstarter so you can get your own pre built board but in the
-meantime the following instructions you can build your own.
+to launch a Kickstarter so you can get your own pre built board, but in the
+meantime with the following instructions you can build your own.
 
 # Here are the instructions to assemble your NED Challenge Board.
 
@@ -33,19 +33,19 @@ One board accommodates up to 4 to 7 students
 ```
 <img src = 'https://www.dropbox.com/s/x58xnnrhntvt0jm/DIY_step1.png?dl=1' style = 'max-width:700px'/>
 ```
-2. Then cut a 17” X 11” piece of poster board.
+2. Then cut a 17” X 11” piece of poster board
 ```
 <img src = 'https://www.dropbox.com/s/f5cohwnl153kpvn/DIY_step2.png?dl=1' style = 'max-width:700px'/>
 ```
-3. Using your preferred adhesive, apply to one half of the poster board.
+3. Using your preferred adhesive, apply to one half of the poster board
 ```
 <img src = 'https://www.dropbox.com/s/quhcmuguw859bfy/DIY_step3.png?dl=1' style = 'max-width:700px'/>
 ```
-4. Place the top piece of your printed 8.5” X 11” on the adhesive side of the poster board (for orientation see diagram).
+4. Place the top piece of your printed 8.5” X 11” on the adhesive side of the poster board (for orientation see diagram)
 ```
 <img src = 'https://www.dropbox.com/s/afagicwzhcvm5vd/DIY_step4.png?dl=1' style = 'max-width:700px'/>
 ```
-5. Apply adhesive on the other half of the board and place the remaining printed 8.5” X 11”.
+5. Apply adhesive on the other half of the board and place the remaining printed 8.5” X 11”
 ```
 <img src = 'https://www.dropbox.com/s/pyiaqpwwglxtkdz/DIY_step5.png?dl=1' style = 'max-width:700px'/>
 ```
