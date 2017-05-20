@@ -10,11 +10,13 @@ and collaboration. Its gained so much popularity with teachers we have decided
 to launch a Kickstarter so you can get your own pre built board, but in the
 meantime with the following instructions you can build your own.
 
-# Here are the instructions to assemble your NED Challenge Board.
+## Here are the instructions to assemble your NED Challenge Board.
 
 <!-- more --> 
 
-## You will need the following materials (that you probably have already in your classroom)
+If you don't have your NED Kit yet you can '**Get your FREE NED Learning Kit**' over at [http://k12.nedlearning.com/ ](http://k12.nedlearning.com/)
+
+### You will need the following materials (that you probably have already in your classroom)
 
 One board accommodates up to 4 to 7 students
 
@@ -62,6 +64,7 @@ One board accommodates up to 4 to 7 students
 
 
 ##### By following these instructions we accept no responsibility for any damages caused.
+
 
 
 
