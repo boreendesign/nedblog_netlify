@@ -12,6 +12,8 @@ meantime with the following instructions you can build your own.
 
 # Here are the instructions to assemble your NED Challenge Board.
 
+<!-- more --> 
+
 ## You will need the following materials (that you probably have already in your classroom)
 
 One board accommodates up to 4 to 7 students
@@ -30,39 +32,39 @@ One board accommodates up to 4 to 7 students
 
 1. First print out the top and bottom of the board
    on two sheets of 8.5” X 11” printer paper.
-```
+
 <img src = 'https://www.dropbox.com/s/x58xnnrhntvt0jm/DIY_step1.png?dl=1' style = 'max-width:700px'/>
-```
+
 2. Then cut a 17” X 11” piece of poster board
-```
+
 <img src = 'https://www.dropbox.com/s/f5cohwnl153kpvn/DIY_step2.png?dl=1' style = 'max-width:700px'/>
-```
+
 3. Using your preferred adhesive, apply to one half of the poster board
-```
+
 <img src = 'https://www.dropbox.com/s/quhcmuguw859bfy/DIY_step3.png?dl=1' style = 'max-width:700px'/>
-```
+
 4. Place the top piece of your printed 8.5” X 11” on the adhesive side of the poster board (for orientation see diagram)
-```
+
 <img src = 'https://www.dropbox.com/s/afagicwzhcvm5vd/DIY_step4.png?dl=1' style = 'max-width:700px'/>
-```
+
 5. Apply adhesive on the other half of the board and place the remaining printed 8.5” X 11”
-```
+
 <img src = 'https://www.dropbox.com/s/pyiaqpwwglxtkdz/DIY_step5.png?dl=1' style = 'max-width:700px'/>
-```
+
 6. Let the board dry.
-```
+
 <img src = 'https://www.dropbox.com/s/bsazg557vd94osc/DIY_step6.png?dl=1' style = 'max-width:700px'/>
-```
+
 7. To get learning, please read the accompanying instructions that you can find in the downloadable NED Kit.
 
 
-```
-<br /><br /><br /><br />
-```
 
 
 
 ##### By following these instructions we accept no responsibility for any damages caused.
+
+
+
 
 
 
