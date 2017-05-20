@@ -21,7 +21,7 @@ If you don't have your NED Kit yet you can '**Get your FREE NED Learning Kit**' 
 One board accommodates up to 4 to 7 students
 
 * NED Board PDF (included in the NED Kit, if you
-  don’t have the KIT please sign up here to receive your free NED Kit)
+  don’t have the KIT please [sign up here to receive your free NED Kit](http://k12.nedlearning.com/))
 * Printer
 * Adhesive
 * Large Poster Board (minimum of 17” X 11”)
@@ -64,6 +64,7 @@ One board accommodates up to 4 to 7 students
 
 
 ##### By following these instructions we accept no responsibility for any damages caused.
+
 
 
 
