@@ -12,6 +12,8 @@ meantime with the following instructions you can build your own.
 
 # Here are the instructions to assemble your NED Challenge Board.
 
+<!-- more --> 
+
 ## You will need the following materials (that you probably have already in your classroom)
 
 One board accommodates up to 4 to 7 students
@@ -60,6 +62,7 @@ One board accommodates up to 4 to 7 students
 
 
 ##### By following these instructions we accept no responsibility for any damages caused.
+
 
 
 
