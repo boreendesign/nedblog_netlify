@@ -8,6 +8,8 @@ Many parents and teachers are familiar with cases already—children are constan
 
 Most of us have genes that make us as hardy as dandelions: able to take root and survive almost anywhere. A few of us, however, are more like orchids: fragile and fickle, but capable of blooming spectacularly if given greenhouse care. In truth, we all have the same genes, but because some genes are polymorphic in their make-up, variant expressions can occur outside of our control, which can have very powerful bearing on our lives and livelihoods.
 
+<!-- more --> 
+
 Researchers have identified a dozen or so gene variants that can increase a person’s susceptibility to depression, anxiety, attention-deficit hyperactivity disorder (ADHD), heightened risk-taking, and antisocial, sociopathic, or violent behaviors, and other problems—if, and only if, the person carrying the variant suffers a traumatic or stressful childhood or faces particularly trying experiences later in life. In other words, the person must have the particular variant of the gene and be traumatized in youth. The genes in question are numerous, but we focus on a few that can modulate mood, affect learning, and enable happiness. Polymorphism is a critical assay of genetics that contributes to understanding of orchid versus dandelion in humans. Polymorphism is the presence of genetic variation within a gene population, upon which natural selection can operate.
 
 If your child has risky variants—expressions of certain genes combined with life hardships, then and only then, we are more prone to end up badly. For instance, there is evidence to suggest that adolescent orchid children who, in addition experience ACEs, will have a less than 20% chance of making it through high school without getting into serious trouble, dropping out, or ending up in the juvenile justice system.
@@ -81,3 +83,4 @@ Changes in environment or culture would affect an allele’s prevalence. The orc
 ---
 
 *DAVID DOBBS The Atlantic – the Science of Success was a source for much of the thinking behind this article.*
+
