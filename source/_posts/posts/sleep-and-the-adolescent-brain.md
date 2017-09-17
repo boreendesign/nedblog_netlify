@@ -6,6 +6,8 @@ If you have teens living in your home, they probably treat their alarm snooze bu
 
 While asleep, our brains are not shut down. In fact our brains are a flurry of activity moving through a predicable cycle of 5 stages every 90 minutes or so. Even though progress through these sleep cycles is relatively predictable, each individual has unique sleep needs and patterns based on an individual circadian rhythm.
 
+<!-- more -->
+
 **Memory Consolidation** is what happens when information and other activities that occurred during the conscious state (daytime) are processed in an unconscious state (sleep time). Rapid Eye Movement (REM) sleep is the last stage of sleep. It is in this stage that the brain is busiest, retracing events that occurred during the day, dreaming and consolidating memories from the day. When we are dreaming our bodies are comatose so that we do not act out our dreams.
 
 **Restorative Actions** take place in non-REM sleep -- a stage prior to REM sleep that is characterized by restorative functions, which are essential for health and fitness. It is at this stage that healing of tissues occurs; muscles grow after working out that day, and strength returns after illness.
@@ -89,4 +91,3 @@ Tokuhama-Espinosa, T. (2010). \*The new science of teaching and learning: using 
 College Press.
 
 Carter. M., et al., (2011). Optogenetic disruption of sleep continuity impairs memory consolidation. Proceedings of the National Academy of Sciences. 108, 32, 13305-13310.
-
