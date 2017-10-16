@@ -16,3 +16,4 @@ Next step with this student--find another student (possiblelower grade)who is st
 The important thing to remember is this -- knowingbraininformation like thismeans that we are in control of our intentions, our actions, and our reactions. Basically, we can decide if we are going to be reactive or have fun, tolerance, learn, be friendly and so on.
 
 When the student (i)understands this and (ii)teaches it to another student - she will experience cognitive rehearsal about this concept of self-regulation and consequently begin to myelinate the PFC in areas that are healthy and meaningful for her personal growth.
+
